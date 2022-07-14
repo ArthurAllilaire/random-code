@@ -1,0 +1,13 @@
+Band,Taxable income,Tax rate
+INCOME TAX
+Personal Allowance,£0 to £12570,0%
+Basic rate,£12571 to £50270,20%
+Higher rate,£50271 to £150000,40%
+Additional rate,£150001 to £inf,45%
+
+CORPORATION TAX
+Main rate, £0 to £inf, 19%
+
+NIC
+Basic rate,£9200 to £36762,13.25%
+Lower rate,£36762 to £+, 3.25%
